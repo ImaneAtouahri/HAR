@@ -21,7 +21,8 @@ We trained and tuned 4 different ML/DL models to find which approach works best,
 
 ## Live Demo
 
-🚀 **[Try it on Streamlit →](https://your-app.streamlit.app)**
+🚀 **[Try it on Streamlit →](https://k63ebhufmfybdpygdypjm6.streamlit.app/)**
+
 
 Upload a CSV with 561 sensor features and get instant activity predictions with confidence scores.
 
@@ -80,7 +81,7 @@ HAR-Activity-Recognition/
 
 ### Option A — Streamlit app (no setup needed)
 
-[Use the live demo →](https://your-app.streamlit.app)
+[Use the live demo →](https://k63ebhufmfybdpygdypjm6.streamlit.app/)
 
 Upload your own `test.csv` (561 feature columns) and see predictions instantly.
 

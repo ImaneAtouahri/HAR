@@ -137,4 +137,4 @@ Install all: `pip install -r requirements.txt`
 
 ## Academic context
 
-This project was completed as part of an **Artificial Intelligence specialization** at Al Akhawayn University. It was a team academic project focused on the full ML pipeline: preprocessing, EDA, model selection, hyperparameter optimization, and error analysis.
+This project was completed as part of an **Artificial Intelligence specialization** at Masaryk University. It was a team academic project focused on the full ML pipeline: preprocessing, EDA, model selection, hyperparameter optimization, and error analysis.
